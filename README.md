@@ -3,9 +3,13 @@
 ##########################
 
 $ git clone https://github.com/ATOung/zawgyifont.git
+
 $ cd zawgyifont
+
 $ sudo tar xvzf zawgyikeyboard.tar.gz
+
 $ su
+
 # python zawgyi_keyboard.py
 
 Answering and giving information a few steps would be completed installation.
