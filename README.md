@@ -2,21 +2,9 @@
 #   installation guide   #
 ##########################
 
-The Downloaded zawgyi-keyboard*.tar.gz would be in ~/Desktop or somewhere else.
-
-Change to your Path
-
-$ cd /path/to/zawgyi-keyboard*.tar.gz/
-$ sudo tar xvzf zawgyi-keyboard*.tar.gz
-
-$ cd zawgyi
-
-Get root permission
-
-$ sudo python zawgyi_keyboard.py
-
-or
-
+$ git clone https://github.com/ATOung/zawgyifont.git
+$ cd zawgyifont
+$ sudo tar xvzf zawgyikeyboard.tar.gz
 $ su
 # python zawgyi_keyboard.py
 
